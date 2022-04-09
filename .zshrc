@@ -1,0 +1,1 @@
+/home/sin/.dotfiles/zshrc

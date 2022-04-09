@@ -1,0 +1,1 @@
+/home/sin/.tmux/scripts/resize-adaptable.sh

@@ -10,7 +10,7 @@ const tasks = [
 export const App = () => (
   <div>
     <h1>Welcome to Meteor!</h1>
-    
+    <h1>text</h1>
    
   </div>
 );

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
+
+
+body {
+  padding: 10px;
+  font-family: sans-serif;
+  background-image: radial-gradient(600px circle at top,rgb(0,19,29),black);
+  background-position: fixed;
+  background-repeat: no-repeat;
+  height:100vh;
+  color:aquamarine;
+  font-family:"Rajdhani";
+  display:grid;
+  place-content: center;
+}
+
+h1 {
+  text-shadow:0 0 25px aqua;
+}
